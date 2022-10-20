@@ -1,1 +1,1 @@
-python tutorials for begineers
+Javascript tutorials
